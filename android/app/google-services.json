@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372946110933",
+    "firebase_url": "https://iwho-15b7b.firebaseio.com",
+    "project_id": "iwho-15b7b",
+    "storage_bucket": "iwho-15b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372946110933:android:486135747a68a24840555c",
+        "android_client_info": {
+          "package_name": "com.example.whoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372946110933-jh9vkqfqlgjn8ft161kg7sbhaclu2792.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmbxhl8JYzB7SbHx22IF7L7Z1T7n6eCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372946110933-jh9vkqfqlgjn8ft161kg7sbhaclu2792.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
